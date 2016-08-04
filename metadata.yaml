@@ -1,0 +1,28 @@
+_repo: Violists_112
+_version: 0.0.1
+creator:
+  author:
+    agent_name: McGowan, Richard
+    birthdate: 1958
+    gutenberg_agent_id: '72'
+    url: http://www.gutenberg.org/2009/agents/72
+    wikipedia: http://azuma-asobi.com/
+description: ''
+gutenberg_issued: '1994-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '112'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Violists -- Fiction'
+- !lcsh 'Fathers and daughters -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Love stories'
+- GITenberg
+tableOfContents: Gretchen in the library -- The Hungarian lightbulb -- Christmas concert.
+title: Violists
+url: http://www.gutenberg.org/ebooks/112
